@@ -1,0 +1,39 @@
+h1{
+  color: #5D6D7E;
+  text-align: right;
+}
+
+h2{
+  color: #E6B0AA;
+  text-align: left;
+}
+
+p{
+  font-family: fantasy;
+  font-size: 30px;
+}
+
+ol{
+  line-height: 38px;
+}
+
+ul{
+  line-height: 38px;
+}
+
+li{
+  font-size: 23px;
+  font-family: inherit;
+}
+
+html{
+  background-color:#FBFCFC;
+}
+
+strong{
+  font-style: italic;
+}
+
+em{
+  font-style: bold;
+}
